@@ -4,7 +4,7 @@ import threading
 import time
 import os
 
-BOT_TOKEN = "7989673864:AAEhB3RfMaLJ-PJgaE99vrP9TWjt67iBAeE"
+BOT_TOKEN = "8351425430:AAGZQxBjK2L_D5y5-MdoTNdE1ZXrj5OmFg8"
 ADMIN_IDS = [7138785294, 6915752059]
 
 API_URL = "https://api-lc79-congthuc-vip-tuananh.onrender.com/api/taixiumd5"
